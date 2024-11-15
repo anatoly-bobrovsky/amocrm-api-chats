@@ -1,0 +1,3 @@
+fastapi==0.110.3 # API
+pydantic-settings==2.1.0  # for env
+uvicorn==0.29.0  # ASGI web server

@@ -1,0 +1,3 @@
+amocrm-api==2.6.1  # amocrm api
+httpx==0.27.0  # async requests
+pydantic-settings==2.1.0  # for env
