@@ -2,6 +2,8 @@
 
 This repository demonstrates how to integrate the [amoCRM](https://www.amocrm.com/) chat API using Python. The project adapts the amoCRM documentation from PHP to Python, providing a practical implementation for developers.
 
+Note: the `docs/` folder contains an additional article provided in both Russian and English.
+
 ## Prerequisites
 
 1. A working amoCRM account.
